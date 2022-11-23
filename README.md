@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahmoudsamir
 - 👀 I’m interested in ...Asp.net core mvc && Php Laravel
-- 🌱 I’m currently learning ...Asp.net core mvc  && Php Laravel
+- 🌱 I’m currently working ...Asp.net core mvc  && Php Laravel
 - 💞️ I’m looking to collaborate on ...net developer && Php Laravel 
 - 📫 How to reach me ...
 
